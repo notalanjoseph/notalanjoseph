@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Bootstrap
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me ...
+- 📫 How to reach me https://notalanjoseph.github.io/mysite/
 
 <!---
 notalanjoseph/notalanjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
