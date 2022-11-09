@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notalanjoseph
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me https://notalanjoseph.github.io/mysite/
 
