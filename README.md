@@ -1,6 +1,6 @@
 # 👋 Hello there, I’m Alan Joseph
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🕸 I’m interested in Web Development
+- 💻 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me at https://notalanjoseph.me/mysite/
 
