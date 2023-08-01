@@ -7,7 +7,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notalanjoseph&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notalanjoseph&layout=compact&theme=chartreuse-dark)
 &emsp;
 &emsp;
 ![GitHub Streak](https://streak-stats.demolab.com/?user=notalanjoseph&theme=github_dark)
