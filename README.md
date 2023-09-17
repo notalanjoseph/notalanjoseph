@@ -12,6 +12,8 @@
 &emsp;
 ![GitHub Streak](https://streak-stats.demolab.com/?user=notalanjoseph&theme=github_dark)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/AlanJoseph?theme=dark)
+
 
 
 <!---
