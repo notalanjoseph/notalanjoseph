@@ -1,4 +1,4 @@
-# 👋 Hello there, I’m Alan
+# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hello there, I’m Alan
 - 🕸 I’m interested in Web Development
 - 💻 I’m currently learning ML
 - 🤝 I’m looking to collaborate on a project
