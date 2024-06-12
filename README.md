@@ -2,7 +2,7 @@
 - 🕸 I’m interested in Backend Development
 -  I’m currently learning Azure ☁
 - 🤝 I’m looking to collaborate on a project
--  Reach me through [notalanjoseph.pages.dev](https://notalanjoseph.pages.dev/) <br /> <br />
+-  Reach me through [alanjoseph.in](https://alanjoseph.in/) <br /> <br />
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-joseph-9a381021a/)](https://www.linkedin.com/in/alan-joseph-9a381021a/)
 
 
