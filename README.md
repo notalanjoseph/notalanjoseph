@@ -6,8 +6,6 @@
 
 <h3 align="center">A passionate software developer from Kerala</h3>
 
-<br/>
-
 <div align="center">
  
  👨‍💻 I’m interested in DevOps
@@ -47,12 +45,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=notalanjoseph&theme=github_dark)
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/AlanJoseph?theme=dark)
-  <br/>
 <div align=center>  
+    <img width=395 src="https://streak-stats.demolab.com/?user=notalanjoseph&theme=github_dark" />
+    <img width=390 src="https://leetcard.jacoblin.cool/AlanJoseph?theme=dark" />
+  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notalanjoseph&layout=compact&theme=merko" />
 </div>
 
