@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **React.js, SpringBoot, Docker**
 
-💬 Ask me about **FastAPI, Selenium, Azure... or anything [here](https://alanjoseph.in)**
+💬 Ask me about **FastAPI, Selenium, Azure... or anything [here](https://alanjoseph.info)**
 
  </div>
  
